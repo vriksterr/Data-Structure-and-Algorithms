@@ -1,5 +1,4 @@
 #include <vector>
-
 using std::vector;
 
 vector<int> quickSort(vector<int>& arr, int s, int e) {
