@@ -1,3 +1,13 @@
+/*
+    The main idea with merge sort is to solve a big sorting problem 
+    into small sub problems by taking the input array and split it into 
+    2 aproximatly equal halfs, and those halfs split them into aproxx halfs 
+    and then contunue to split each subarray untill we cannot split them anymore
+    which means we have individual elements left of us to then sort.
+
+    We do this with the help of recurssion.
+*/
+
 #include <vector>
 
 using std::vector;
