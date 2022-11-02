@@ -1,3 +1,15 @@
+/*
+    It is another sorting algorithm that is similar to merge sort algorithm, the idea is 
+    instead of splitting the array into 2 almost equal parts and sorting those halfs like we 
+    do in merge sort, instead we are going to pick a random value or the rightmost value 
+    which is called the pivot value, using this pivot value we are going to itterate through
+    everysingle value in the array and compare these values with the pivot value except itself,
+    so every value which is going to be less than or equal to the pivot value is going to be
+    put into the left partition or the array and the bigger ones will be on the right side.
+
+    We will keep on doing it until everything is sorted using recursion.
+*/
+
 #include <vector>
 using std::vector;
 
