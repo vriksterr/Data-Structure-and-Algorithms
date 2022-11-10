@@ -39,6 +39,6 @@ vector<int> quickSort(vector<int>& arr, int s, int e) {
 
     // Quick sort right side
     quickSort(arr, left + 1, e);
- 
+
     return arr;
 }
