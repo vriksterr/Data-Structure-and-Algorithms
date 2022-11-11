@@ -1,5 +1,4 @@
 /*
-
     In insertion Sort we are comparing the values and arranging it in accending order or decending
     order by comparing the 2 values and if the value is found to be smaller than the previous value
     we keep replacing positions and that smaller is in the right position
