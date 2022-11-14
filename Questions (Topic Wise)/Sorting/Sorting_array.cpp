@@ -22,7 +22,7 @@ public:
     }
 };
 
-//Solution passes and the most simple
+//Solution passes and the most simple using the algorithm lib
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
