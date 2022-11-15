@@ -22,7 +22,7 @@ public:
     }
 };
 
-//Solution passes and the most simple using the algorithm lib
+//Solution passes and the most simple using the algorithm library, i would suggest do without it
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
