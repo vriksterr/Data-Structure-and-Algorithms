@@ -1,4 +1,4 @@
-// more other solutions
+// more other solutions to sorting array
 // https://leetcode.com/problems/sort-an-array/discuss/1401412/C%2B%2B-Clean-Code-Solution-or-Fastest-or-All-(15%2B)-Sorting-Methods-or-Detailed
 
 #include<vector>
