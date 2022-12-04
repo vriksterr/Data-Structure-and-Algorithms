@@ -1,2 +1,2 @@
 # Data-Structure-and-Algorithms
-Doing DSA Learning and Practice using C++
+DSA Learning and Practice with C++
