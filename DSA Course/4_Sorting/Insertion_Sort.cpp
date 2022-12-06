@@ -9,7 +9,6 @@
                   a waste of time and will be counted in a unstable sort
 */
 #include <vector>
-
 using std::vector;
 
 vector<int> insertionSort(vector<int>& arr) {
