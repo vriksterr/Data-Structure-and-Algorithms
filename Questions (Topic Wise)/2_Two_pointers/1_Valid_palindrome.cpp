@@ -28,8 +28,6 @@ public:
 int main(){
 
     string p{"A man, a plan, a canal: Panama"};
-
     Solution a;
-
     a.isPalindrome(p);
 }
